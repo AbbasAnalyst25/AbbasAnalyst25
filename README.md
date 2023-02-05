@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**AbbasAnalyst25/AbbasAnalyst25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##⚡ An expert in any field was once a beginner ⚡
 
-Here are some ideas to get you started:
+Alsalam ealaykum 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Abbas Aboukura
+
+I’m entry level data analysis
+
+I have an intermediate knowledge in Python, Excel, SQL, Power BI 🌱
+
+I graduated with a bachelor's degree in Economics and Public Finance.
+
+
+## 🔗 Be friend with me. 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abbas22)
