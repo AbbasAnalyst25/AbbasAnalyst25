@@ -1,15 +1,15 @@
 
-##⚡ An expert in any field was once a beginner ⚡
+## ⚡ An expert in any field was once a beginner ⚡
 
-Alsalam ealaykum 👋
+### Alsalam ealaykum 👋
 
-My name is Abbas Aboukura
+### My name is Abbas Aboukura
 
-I’m entry level data analysis
+### I’m entry level data analysis
 
-I have an intermediate knowledge in Python, Excel, SQL, Power BI 🌱
+### I have an intermediate knowledge in Python, Excel, SQL, Power BI 🌱
 
-I graduated with a bachelor's degree in Economics and Public Finance.
+### I graduated with a bachelor's degree in Economics and Public Finance.
 
 
 ## 🔗 Be friend with me. 
